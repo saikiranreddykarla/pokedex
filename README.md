@@ -2,6 +2,10 @@
 
 A responsive Pokédex web app powered by the public PokéAPI.
 
+## Live preview
+
+[Open the Pokédex Field Scanner](https://saikiranreddykarla.github.io/pokedex/pokedex.html)
+
 ## Features
 
 - National Pokédex search with detailed Pokémon data
